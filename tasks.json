@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-20 12:00",
+  "message": "发送弹幕前请先在内置网页登录对应视频网站账号。",
+  "monitorEndpoint": "https://你的-render服务名.onrender.com/api/ping",
+  "tasks": [
+    {
+      "id": "tx_20260620_001",
+      "title": "腾讯视频任务示例",
+      "platform": "tx",
+      "url": "https://v.qq.com/x/cover/请替换为真实腾讯视频桌面版链接.html",
+      "note": "管理员发布的腾讯任务链接",
+      "enabled": true,
+      "updatedAt": "2026-06-20 12:00"
+    },
+    {
+      "id": "iqy_20260620_001",
+      "title": "爱奇艺任务示例",
+      "platform": "iqy",
+      "url": "https://www.iqiyi.com/请替换为真实爱奇艺桌面版链接.html",
+      "note": "管理员发布的爱奇艺任务链接",
+      "enabled": true,
+      "updatedAt": "2026-06-20 12:00"
+    }
+  ]
+}
