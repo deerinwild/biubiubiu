@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-20",
+  "message": "请先创建本地任务，再选择下方视频链接进入网页。发送弹幕前必须先登录对应平台账号。",
+  "monitorEndpoint": "https://biubiubiu-monitor.onrender.com/api/ping",
+  "tasks": [
+    {
+      "id": "tx_aqyyh",
+      "title": "腾讯视频-爱情有烟火",
+      "platform": "tx",
+      "url": "https://v.qq.com/x/cover/mzc00200376netq/p4102qvmj97.html"
+    },
+    {
+      "id": "iqy_aqyyh",
+      "title": "爱奇艺-爱情有烟火",
+      "platform": "iqy",
+      "url": "https://www.iqiyi.com/v_h4lrzbfteg.html"
+    }
+  ]
+}
