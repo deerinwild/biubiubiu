@@ -1,14 +1,5 @@
 # biubiubiu 管理员任务仓库
 
-在 Gitee 和 GitHub 两个任务仓库的根目录放置 `tasks.json`。
-
-APK 读取顺序：
-
-1. `https://gitee.com/xth_320/biubiubiu/raw/master/tasks.json`
-2. `https://gitee.com/xth_320/biubiubiu/raw/main/tasks.json`
-3. `https://raw.githubusercontent.com/deerinwild/biubiubiu/main/tasks.json`
-4. `https://raw.githubusercontent.com/deerinwild/biubiubiu/master/tasks.json`
-
 字段说明：
 
 - `monitorEndpoint`：Render 上报接口。
